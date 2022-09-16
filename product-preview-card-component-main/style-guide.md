@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark cyan: hsl(158, 36%, 37%)
+- Dark cyan: hsl(158, 36%, 37%)-Done
 - Cream: hsl(30, 38%, 92%)-Done
 
 ### Neutral
@@ -24,7 +24,7 @@ The designs were created to the following widths:
 
 ### Body Copy
 
-- Font size (paragraph): 14px
+- Font size (paragraph): 14px-Done
 
 ### Font
 
