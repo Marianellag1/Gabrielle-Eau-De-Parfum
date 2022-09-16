@@ -12,7 +12,7 @@ The designs were created to the following widths:
 ### Primary
 
 - Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
+- Cream: hsl(30, 38%, 92%)-Done
 
 ### Neutral
 
@@ -29,7 +29,7 @@ The designs were created to the following widths:
 ### Font
 
 - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
-- Weights: 500, 700
+- Weights: 500, 700-Done
 
 - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
-- Weights: 700
+- Weights: 700-Done

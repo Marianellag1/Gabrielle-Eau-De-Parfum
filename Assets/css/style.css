@@ -1,2 +1,24 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+/* .attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); } */
+
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card-title {
+    font-family: 'Fraunces', serif;
+}
+
+.card-text, .strike {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.price {
+    font-family: 'Fraunces', serif;
+    color:hsl(158, 36%, 37%) ;
+}
+
+.btn-primary {
+    background: hsl(158, 36%, 37%) !important;
+    border-color:  hsl(158, 36%, 37%) !important;
+}
