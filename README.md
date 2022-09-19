@@ -12,8 +12,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Marianellag1/Gabrielle-Eau-De-Parfum)
-- Live Site URL: [Add live site URL here](https://marianellag1.github.io/Gabrielle-Eau-De-Parfum/)
+- Solution URL:(https://github.com/Marianellag1/Gabrielle-Eau-De-Parfum)
+- Live Site URL:(https://marianellag1.github.io/Gabrielle-Eau-De-Parfum/)
 
 
 ### Built with
