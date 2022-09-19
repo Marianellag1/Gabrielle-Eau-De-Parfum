@@ -7,7 +7,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./myScreenshot/parfum-screenshot.png)
+![](./myScreenshot/parfum-screenshot.png)![parfum-screenshot](https://user-images.githubusercontent.com/110939445/190937617-9c9fc072-f447-4c1d-8205-94d5acc0065a.png)
+
 
 ### Links
 
