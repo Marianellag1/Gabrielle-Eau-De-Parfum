@@ -26,7 +26,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-I was very happy to learn the <s> element to strikethrough a word or number, and extremely excited when it worked!
+I was very happy to learn the <s> element to 'strikethrough' a word or number, and extremely excited when it worked!
 <!-- <html>
           <div class="col-8 col-sm-6 new-price">
                   <p class="price">$149.99</p>
